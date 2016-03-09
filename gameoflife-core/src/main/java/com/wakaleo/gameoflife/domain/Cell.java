@@ -2,7 +2,7 @@ package com.wakaleo.gameoflife.domain;
 
 /**Connie adding random javadoc 
  * to see if it will display
- * in Jenkins
+ * in Jenkins Javadoc link
  */
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
